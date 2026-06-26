@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.pyc
+venv/
+.venv/
+chroma/
+outputs/
+.cache/
+*.sqlite3
+.DS_Store
+'@ | Set-Content .gitignore
